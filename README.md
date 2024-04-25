@@ -1,7 +1,7 @@
 # docker-django3
 ![Django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)
 
-![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![Docker Registry: kcyeu/django3](https://img.shields.io/badge/docker-kcyeu\/django2-blue.svg)](https://hub.docker.com/r/kcyeu/django3/)
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![Docker Registry: kcyeu/django3](https://img.shields.io/badge/docker-kcyeu\/django3-blue.svg)](https://hub.docker.com/r/kcyeu/django3/)
 
 Dockerized Django development environment
 
