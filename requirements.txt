@@ -1,0 +1,5 @@
+django==3.2.25
+djangorestframework
+psycopg2-binary
+gunicorn
+python-decouple
